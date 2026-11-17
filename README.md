@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Automations
+
+**Embryo Automations** is Embryo-Zero's fork of [kestra](https://github.com/kestra-io/kestra), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <p align="center">
   <a href="https://www.kestra.io">
     <img src="https://kestra.io/banner.png"  alt="Kestra workflow orchestrator" />
